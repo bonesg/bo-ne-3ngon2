@@ -3,7 +3,7 @@ title: Welcome to Jekyll!
 date: 2019-02-04 00:00:00 Z
 categories:
 - Jekyll
-image: "uploads/bo-ne-them%20-%20Copy.jpg"
+image: uploads/bo-ne-them%20-%20Copy.jpg
 layout: post
 ---
 
