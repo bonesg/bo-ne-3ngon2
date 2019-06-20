@@ -1,5 +1,5 @@
 ---
-title: Bo Ne 3ngon2
+title: Bo Ne 3ngon
 timezone: UTC
 collections:
   posts:
@@ -13,7 +13,7 @@ defaults:
     path: _posts
   values:
     layout: post
-    author: sal
+    author: 3ngon
     avatar: "/assets/images/avatar1.jpg"
 - scope:
     path: _pages
