@@ -24,7 +24,7 @@ description: Nhượng quyền bò né 3 ngon, hợp tác mở quán bò né 3 n
   bếp, Mở quán ở các tỉnh thành phố, Cung cấp nguyên liệu làm bò né
 logo: assets/images/logo.png
 favicon: assets/images/favicon.ico
-baseurl: ''
+baseurl: 
 disqus: 3ngon
 email: bonengonsg@gmail.com
 mailchimp-list: 
@@ -37,18 +37,20 @@ plugins:
 - jekyll-paginate
 - jekyll-seo-tag
 authors:
-  sal:
+  3ngon:
     name: 3ngon
     site: https://bone3ngon.com.vn
     avatar: assets/images/avatar1.jpg
-    bio: Chào bạn.mình có thể tư vấn về nhượng quyền bò né cho bạn được không ?
+    bone3ngon: Chào bạn.mình có thể tư vấn về nhượng quyền bò né cho bạn được không
+      ?
     email: bonengonsg@gmail.com
     twitter: https://twitter.com/3ngon
   jane:
     name: bone3ngon
     site: https://bone3ngon.com.vn
     avatar: assets/images/avatar2.jpg
-    bio: Chào bạn.mình có thể tư vấn về nhượng quyền bò né cho bạn được không ?
+    bone3ngon: Chào bạn.mình có thể tư vấn về nhượng quyền bò né cho bạn được không
+      ?
     email: bonengonsg@gmail.com
     twitter: https://twitter.com/3ngon
 markdown: kramdown
