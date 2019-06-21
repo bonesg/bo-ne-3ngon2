@@ -5,7 +5,7 @@ categories:
 - bone3ngon
 tags:
 - bone3ngon
-image: "/uploads/bo-ne-them%20-%20Copy.jpg"
+image: "uploads/bo-ne-them%20-%20Copy.jpg"
 layout: post
 ---
 
