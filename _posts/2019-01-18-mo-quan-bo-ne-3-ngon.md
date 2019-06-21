@@ -3,7 +3,6 @@ title: Mở quán bò né 3 ngon ở các tỉnh thành phố
 date: 2019-01-18 00:00:00 Z
 categories:
 - BONE3NGON
-- BONE3NGON
 tags:
 - sticky
 layout: post
