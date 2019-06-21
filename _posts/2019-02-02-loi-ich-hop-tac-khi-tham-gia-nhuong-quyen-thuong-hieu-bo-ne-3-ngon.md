@@ -6,7 +6,7 @@ categories:
 tags:
 - bone3ngon
 author: 3ngon
-image: "/uploads/bo-ne-3-ngon.JPG"
+image: "uploads/bo-ne-3-ngon.JPG"
 layout: post
 ---
 
