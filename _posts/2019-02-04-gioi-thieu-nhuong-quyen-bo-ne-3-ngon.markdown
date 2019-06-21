@@ -2,7 +2,9 @@
 title: Giới thiệu nhượng quyền bò né 3 ngon
 date: 2019-02-04 00:00:00 Z
 categories:
-- Jekyll
+- bone3ngon
+tags:
+- bone3ngon
 image: uploads/bo-ne-them%20-%20Copy.jpg
 layout: post
 ---
