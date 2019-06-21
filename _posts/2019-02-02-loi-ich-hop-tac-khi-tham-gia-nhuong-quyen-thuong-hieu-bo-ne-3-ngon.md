@@ -2,10 +2,10 @@
 title: Lợi ích hợp tác khi tham gia nhượng quyền thương hiệu Bò né 3 Ngon
 date: 2019-02-02 00:00:00 Z
 categories:
-- tutorial
+- bone3ngon
 tags:
-- featured
-author: sal
+- bone3ngon
+author: 3ngon
 image: "/uploads/bo-ne-3-ngon.JPG"
 layout: post
 ---
