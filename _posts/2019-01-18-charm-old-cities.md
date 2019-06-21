@@ -1,5 +1,5 @@
 ---
-title: Could we reinvent the charm of old cities
+title: Mở quán bò né 3 ngon ở các tỉnh thành phố
 date: 2019-01-18 00:00:00 Z
 categories:
 - Jekyll
@@ -11,9 +11,9 @@ author: jane
 image: assets/images/home.jpg
 ---
 
-Bucharest’s history alternated periods of development and decline from the early settlements in antiquity until its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler.
+Công ty 3 Ngon tìm đối tác mở quán ăn bò né  3 ngon tại 64 tỉnh thành Việt Nam.
 
-#### Early 18th century woodcut of Bucharest
+
 
 The Ottomans appointed Greek administrators (Phanariotes) to run the town from the 18th century. A short-lived revolt initiated by Tudor Vladimirescu in 1821 led to the end of the rule of Constantinople Greeks in Bucharest.[19]
 
