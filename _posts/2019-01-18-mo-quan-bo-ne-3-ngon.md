@@ -10,7 +10,7 @@ author: 3ngon
 image: uploads/bo-ne-them%20-%20Copy.jpg
 ---
 
- Quý khách có nhu cầu mở quán vui lòng liên hệ : 090 519 96 80.
+ Quý khách có nhu cầu mở quán vui lòng liên hệ : 090 519 96 80.Công ty sẽ hổ trợ (bản hiệu, menu…) tư vấn các chuẩn theo quy định, hổ trợ bếp đứng hướng dẫn kinh nghiệm chế biến
 
 
 
