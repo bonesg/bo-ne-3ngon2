@@ -10,7 +10,7 @@ author: 3ngon
 image: uploads/bo-ne-them%20-%20Copy.jpg
 ---
 
-Công ty 3 Ngon tìm đối tác mở quán ăn bò né  3 ngon tại 64 tỉnh thành Việt Nam.
+ Quý khách có nhu cầu mở quán vui lòng liên hệ : 090 519 96 80.
 
 
 
