@@ -70,4 +70,4 @@ Nếu còn bất cứ thắc mắc gì liên quan đến nhượng quyền thư�
 Công Ty TNHH Bò Né 3 Ngon\
 Địa chỉ :62 Lê Lợi, Bến Nghé, Quận 1, Hồ Chí Minh \
 Số ĐT:090 519 96 80\
-fanpage :[https://www.facebook.com/chuoibone3ngon/](http://C%C3%B4ng%20Ty%20TNHH%20B%C3%B2%20N%C3%A9%203%20Ngon%20%C4%90%E1%BB%8Ba%20ch%E1%BB%89%20tr%E1%BB%A5%20s%E1%BB%9F:77%C4%91%C6%B0%E1%BB%9Dng%20s%E1%BB%91%2046,%20Ph%C6%B0%E1%BB%9Dng%20Hi%E1%BB%87p%20B%C3%ACnh%20Ch%C3%A1nh,%20Qu%E1%BA%ADn%20Th%E1%BB%A7%20%C4%90%E1%BB%A9c,%20Th%C3%A0nh%20ph%E1%BB%91%20H%E1%BB%93%20Ch%C3%AD%20Minh%20GPKD:0315636945%20M%C3%A3%20s%E1%BB%91%20thu%E1%BA%BF:0315636945%20S%E1%BB%91%20%C4%90T:090%20519%2096%2080%20fanpage%20:https//www.facebook.com/chuoibone3ngon/)
+fanpage :[https://www.facebook.com/chuoibone3ngon/](https://www.facebook.com/chuoibone3ngon/)
