@@ -7,7 +7,7 @@ tags:
 - sticky
 layout: post
 author: 3ngon
-image: uploads/bo-ne-them%20-%20Copy.jpg
+image: uploads/nhuong-quyen-bo-ne-3-ngon1.png
 ---
 
  Quý khách có nhu cầu mở quán vui lòng liên hệ : 090 519 96 80. Công ty sẽ hổ trợ (bảng hiệu, menu…) tư vấn Trang trí, Hỗ trợ mở quán.hướng dẫn trang trí .cung cấp nguyên liệu làm bò né 3 ngon, được đào tạo. được tham quan học hỏi đứng quán bò né trước khi triển khai thực tế kinh doanh quán bò né
