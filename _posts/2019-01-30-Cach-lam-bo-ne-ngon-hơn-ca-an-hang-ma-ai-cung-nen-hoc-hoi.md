@@ -27,7 +27,7 @@ Khoai tây chiên sơ
 Pate làm sẵn
 Hành lá, rau mùi
 cà chua, dưa chuột
-uploads/cach-lam-bo-ne-ngon-hon-ca-an-hang-ma-ai-cung-nen-hoc-hoi-3ngon.net-0.jpg
+(/uploads/cach-lam-bo-ne-ngon-hon-ca-an-hang-ma-ai-cung-nen-hoc-hoi-3ngon.net-0.jpg)
 Hướng dẫn làm bò né ngon như ăn hàng
 Cách thức làm bò né ngon vô cùng đơn giản.Trước tiên, cần sơ chế nguyên liệu tươi sống một cách sạch sẽ. Thịt bò rửa sạch và cắt miếng vừa ăn rồi đem đập dần sơ qua cho miếng bò mềm thịt. Một lưu ý nhỏ dành cho bạn là nhớ phải cắt ngang sớ thịt để miếng bò không bị dai khi chế biến nhé.
 
@@ -56,7 +56,7 @@ Cho tất cả các nguyên liệu làm nước sốt cà chua vào máy xay sin
 
 cach lam bo ne ngon hon ca an hang ma ai cung nen hoc hoi 3ngon.net 2 533x400 - Cách làm bò né ngon hơn cả ăn hàng mà ai cũng nên học hỏi
 Làm sốt cà chua nhanh chóng và đơn giản.
-uploads/cach-lam-bo-ne-ngon-hon-ca-an-hang-ma-ai-cung-nen-hoc-hoi-3ngon.net-0.jpg
+(/uploads/cach-lam-bo-ne-ngon-hon-ca-an-hang-ma-ai-cung-nen-hoc-hoi-3ngon.net-0.jpg)
 Làm bò né ốp la
 Bạn thực hiện làm bò né ốp la với các bước sau đây:
 
@@ -76,7 +76,7 @@ Bước 6: Bạn cho bò, trứng ốp la ra đĩa, chan nước sốt cà chua 
 
 cach lam bo ne ngon hon ca an hang ma ai cung nen hoc hoi 3ngon.net 3 320x400 - Cách làm bò né ngon hơn cả ăn hàng mà ai cũng nên học hỏi
 Món bò né siêu ngon đã được làm xong.
-uploads/cach-lam-bo-ne-ngon-hon-ca-an-hang-ma-ai-cung-nen-hoc-hoi-3ngon.net-3-320x400.jpg
+(/uploads/cach-lam-bo-ne-ngon-hon-ca-an-hang-ma-ai-cung-nen-hoc-hoi-3ngon.net-3-320x400.jpg)
 Lời kết
 Vậy là bạn đã hoàn thành xong món bò né rồi đấy, đơn giản đúng không nào. Vậy bạn còn chần chừ gì mà không thực hiện để có được một món ăn ngon và hấp dẫn. Nếu bạn vẫn chưa biết làm bò né thì có thể nhanh chân đến với bò né 3 ngon để thưởng thức và học hỏi cách làm bò né ngon nhất và nóng hổi nhất.
 
