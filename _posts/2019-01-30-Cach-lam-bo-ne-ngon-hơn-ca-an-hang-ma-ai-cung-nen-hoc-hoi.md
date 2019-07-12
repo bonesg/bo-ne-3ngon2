@@ -2,8 +2,8 @@
 title: Cách làm bò né ngon hơn cả ăn hàng mà ai cũng nên học hỏi
 date: 2019-01-30 00:00:00 Z
 categories:
-- Jekyll
-- tutorial
+- bone3ngon
+- 3ngon
 layout: post
 author: sal
 image: uploads/cach-lam-bo-ne-ngon-hon-ca-an-hang-ma-ai-cung-nen-hoc-hoi-3ngon.net.jpg
