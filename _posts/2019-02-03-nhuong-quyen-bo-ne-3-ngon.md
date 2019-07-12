@@ -6,7 +6,7 @@ categories:
 tags:
 - bone3ngon
 author: bone3ngon
-image: uploads/bo-ne-them%20-%20Copy.jpg
+image: uploads/nhuong-quyen-bo-ne-3-ngon1.png
 layout: post
 ---
 
