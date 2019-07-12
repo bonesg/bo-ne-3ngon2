@@ -5,7 +5,7 @@ categories:
 - bone3ngon
 tags:
 - bone3ngon
-image: uploads/nhuong-quyen-bo-ne-3-ngon1.png
+image: uploads/nhuong-quyen-bo-ne-3-ngon-cac-tinh-thanh.jpg
 layout: post
 ---
 
