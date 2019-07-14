@@ -63,3 +63,5 @@ exclude:
 - Gruntfile.js
 - Gruntfile.coffee
 - node_modules
+# Google Analytics
+google_analytics: UA-138752565-1
