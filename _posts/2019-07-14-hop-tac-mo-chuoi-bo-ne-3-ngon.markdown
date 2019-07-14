@@ -1,6 +1,11 @@
 ---
 title: Hợp tác mở chuỗi bò né 3ngon
 date: 2019-07-14 15:23:00 Z
+categories:
+- bone3ngon
+tags:
+- bone3ngon
+avatar: "/uploads/nhuong-quyen-bo-ne-3-ngon1.png"
 images: "/uploads/nhuong-quyen-bo-ne-3-ngon1.png"
 ---
 
