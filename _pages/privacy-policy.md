@@ -3,41 +3,17 @@ title: Privacy Policy
 permalink: "/privacy-policy.html"
 ---
 
-"{{site.name}}" takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
+Công ty 3 Ngon tìm đối tác mở quán ăn bò né 3 ngon tại 64 tỉnh thành Việt Nam.\
+Vốn đầu tư ban đầu tùy diện tích quán. Công ty sẽ setup toàn bộ mọi thứ từ offline như bàn ghế, chảo, bếp, dụng cụ, bản hiệu…. đến online như website, fanpage…
 
+Chúng tôi sẽ giúp bạn bằng cách nhượng quyền mô hình kinh doanh bò né 3 ngon để hợp tác cùng phát triển, giúp bạn tránh rủi ro, tránh thất bại khi kinh doanh.
 
-#### Collection of Routine Information
+Công ty sẽ tư vấn (bản hiệu, menu…) tư vấn các chuẩn theo quy định, hổ trợ bếp đứng hướng dẫn kinh nghiệm chế biến (free). Các nguồn nguyên liệu từ bò gia vị đến rau… đều được giao theo chuẩn định kỳ đến quán.
 
-This website track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitor to this website. The information is tracked for routine administration and maintenance purposes.
-
-
-#### Cookies
-
-Where necessary, this website uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
-
-
-#### Advertisement and Other Third Parties
-
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track visitor activities on this website in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This website has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
-
-
-#### Links to Third Party Websites
-
-We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
-
-
-#### Security
-
-The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-
-#### Changes To This Privacy Policy
-
-This Privacy Policy is effective and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
-
-
-#### Contact Information
-
-For any questions or concerns regarding the privacy policy, please [contact us here]({{site.baseurl}}/contact.html).
+**Công ty 3 Ngon tìm đối tác mở quán ăn bò né 3 ngon tại 64 tỉnh thành Việt Nam.**\
+**Vốn đầu tư ban đầu tùy diện tích quán. Công ty sẽ setup toàn bộ mọi thứ từ offline như bàn ghế, chảo, bếp, dụng cụ, bản hiệu….**\
+** Công ty sẽ tư vấn (bản hiệu, menu…) tư vấn các chuẩn theo quy định, hổ trợ bếp đứng hướng dẫn kinh nghiệm chế biến (free). Các nguồn nguyên liệu từ bò gia vị đến rau… đều được giao theo chuẩn định kỳ đến quán. **\
+** Công Ty TNHH Bò Né 3 Ngon**\
+**Địa chỉ trụ sở:77đường số 46, Phường Hiệp Bình Chánh, Quận Thủ Đức, Thành phố Hồ Chí Minh**\
+**Số ĐT:090 519 96 80**\
+**[https://www.facebook.com/chuoibone3ngon](https://www.facebook.com/chuoibone3ngon)/**
