@@ -5,8 +5,9 @@ categories:
 - bone3ngon
 tags:
 - bone3ngon
-avatar: "/uploads/nhuong-quyen-bo-ne-3-ngon1.png"
-images: "/uploads/nhuong-quyen-bo-ne-3-ngon1.png"
+avatar: "uploads/nhuong-quyen-bo-ne-3-ngon1.png"
+images: "uploads/nhuong-quyen-bo-ne-3-ngon1.png"
+
 ---
 
 ![nhuong-quyen-bo-ne-3-ngon](/uploads/nhuong-quyen-bo-ne-3-ngon1.png)
