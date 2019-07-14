@@ -10,7 +10,7 @@ image: uploads/nhuong-quyen-bo-ne-3-ngon1.png
 layout: post
 ---
 
-Quy trình nhượng quyền Bò né 3 Ngon
+![nhuong-quyen-bo-ne-3-ngon](/uploads/nhuong-quyen-bo-ne-3-ngon1.png)
 Là một tên gọi khác của Bít tết đã được cải biên để phù hợp với khẩu vị người Việt, Bò né 3 Ngon từ khi ra đời đã nhận được sự ủng hộ nhiệt tình của thực khách. Để đưa sản phẩm đến đươc với nhiều khách hàng hơn, cũng như chia sẻ cơ hội kinh doanh, hợp tác với những người cùng đam mê ẩm thực, Bò né 3 Ngon chính thức triển khai mô hình nhượng quyền thương hiệu với chính sách hấp dẫn trên toàn quốc. Mời bạn cùng tìm hiều về quy trình nhượng quyền thương hiệu của chúng tôi.
 
 Giới thiệu về Bò né 3 Ngon
@@ -42,7 +42,7 @@ Trước khi triển khai bất cứ mô hình kinh doanh, bạn cũng cần tì
 Sau khi tìm hiểu về Bò né 3 Ngon, bạn sẽ được nhận những thông tin hợp tác của chúng tôi. Một quy trình khoa học, rõ ràng về các bước hợp tác sẽ được gửi đến bạn để hai bên cùng đánh giá, hiểu về nhau và nhìn đến những bước tiến sâu hơn. Chúng tôi sẵn sàng giải đáp mọi thắc mắc của bạn dù là nhỏ nhất. Những bước hợp tác sẽ được thể hiện rõ ràng trong hợp đồng và được chúng tôi tư vấn đầy đủ theo quy định của pháp luật. Bạn cần đọc, hiểu và nắm rõ các yêu cầu cũng như quy đình tai bước này để đảm bảo hoàn toàn thông suốt và thống nhất cùng chúng tôi. Nếu cần điều chỉnh gì, chúng tôi sẵn lòng cùng bạn thảo luận  để đến được sự đồng thuận cao nhất, phù hợp với điều kiện của cả hai bên.
 
 Việc trải nghiệm thực tế điểm bán cũng là điều rất quan trọng. Bạn có thể tới bất cứ cửa hàng nào của Bò né 3 Ngon nhằm hiểu về thực tế kinh doanh, hiểu hơn về khách hàng cũng như những bài học mà chúng tôi đã và đang thực hiện. Những điều mắt thấy, tai nghe sẽ giúp bạn có được những kinh nghiệm và định hướng cần thiết khi triển khai cửa hàng của chính mình.
-(uploads/nhuong-quyen-bo-ne-3-ngon1.png)
+\(uploads/nhuong-quyen-bo-ne-3-ngon1.png)
 Bước 2 : Đào tạo: Đào tạo lý thuyết, đào tạo thực hành, Đánh giá sự phù hợp
 Bò né 3 Ngon sẽ mời các bạn đã cùng qua bước 1 tiếp tục tham gia một quá trình đào tạo lý thuyết và thực hành, đánh giá sự phù hơp… được thiết kế chuyên nghiệp, bài bản dựa trên thực tế kinh doanh của chúng tôi.
 
@@ -63,5 +63,4 @@ Hãy liên lạc ngay với chúng tôi tại địa chỉ sau để tham gia h�
 Công Ty TNHH Bò Né 3 Ngon
 Địa chỉ trụ sở:7 đường số 46, Phường Hiệp Bình Chánh, Quận Thủ Đức, Thành phố Hồ Chí Minh
 Số ĐT:090 519 96 80
-fanpage :[https://www.facebook.com/chuoibone3ngon/](https://www.facebook.com/chuoibone3ngon/)
-
+fanpage :[https://www.facebook.com/chuoibone3ngon/](https://www.facebook.com/chuoibone3ngon/)![nhuong-quyen-bo-ne-3-ngon1.png](/uploads/nhuong-quyen-bo-ne-3-ngon1.png)
