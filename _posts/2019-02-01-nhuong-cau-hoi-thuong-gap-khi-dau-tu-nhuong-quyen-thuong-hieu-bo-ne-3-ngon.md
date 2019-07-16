@@ -67,7 +67,7 @@ Bạn có thể yên tâm vì các nhà hàng nhượng quyền Bò né 3 Ngon k
 
 Nếu còn bất cứ thắc mắc gì liên quan đến nhượng quyền thương hiệu Bò né 3 Ngon, hãy liên lạc ngay với chúng tôi, bạn nhé!
 
-Công Ty TNHH Bò Né 3 Ngon\
-Địa chỉ :62 Lê Lợi, Bến Nghé, Quận 1, Hồ Chí Minh \
+Công Ty TNHH Bò Né 3 Ngon
+Địa chỉ :62 Lê Lợi, Bến Nghé, Quận 1, Hồ Chí Minh 
 Số ĐT:090 519 96 80\
 fanpage :[https://www.facebook.com/chuoibone3ngon/](https://www.facebook.com/chuoibone3ngon/)
