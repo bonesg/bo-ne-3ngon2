@@ -46,7 +46,7 @@ Hãy liên lạc ngay với chúng tôi tại địa chỉ sau để tham gia h�
 Hỗ trợ mở quán bò né ở các tỉnh thành.hãy liên hệ để được tư vấn và tham quan mô hình kinh doanh
 
 Công Ty TNHH Bò Né 3 Ngon
-Địa chỉ trụ sở:77đường số 46, Phường Hiệp Bình Chánh, Quận Thủ Đức, Thành phố Hồ Chí Minh
+Địa chỉ trụ sở:18 Đinh Tiên Hoàng, Đa Kao, Quận 1, Quận 1 Hồ Chí Minh, Vietnam
 Số ĐT:090 519 96 80
 fanpage :[https://www.facebook.com/chuoibone3ngon/](https://www.facebook.com/chuoibone3ngon/)
 ![xay-dung-chuoi-bo-ne.png](/uploads/xay-dung-chuoi-bo-ne.png)
