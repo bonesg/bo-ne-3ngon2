@@ -23,7 +23,7 @@ Công ty sẽ hổ trợ (bản hiệu, menu…) tư vấn các chuẩn theo quy
 
 Công Ty TNHH Bò Né 3 Ngon
 
-Địa chỉ trụ sở:77đường số 46, Phường Hiệp Bình Chánh, Quận Thủ Đức, Thành phố Hồ Chí Minh
+Địa chỉ trụ sở:18 Đinh Tiên Hoàng, Đa Kao, Quận 1, Quận 1 Hồ Chí Minh, Vietnam
 
 Số ĐT:090 519 96 80
 fanpage :[https://www.facebook.com/chuoibone3ngon/](https://www.facebook.com/chuoibone3ngon/)
