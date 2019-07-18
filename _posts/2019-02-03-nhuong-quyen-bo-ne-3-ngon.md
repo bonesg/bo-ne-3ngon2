@@ -47,6 +47,7 @@ Bước 2 : Đào tạo: Đào tạo lý thuyết, đào tạo thực hành, Đ�
 Bò né 3 Ngon sẽ mời các bạn đã cùng qua bước 1 tiếp tục tham gia một quá trình đào tạo lý thuyết và thực hành, đánh giá sự phù hơp… được thiết kế chuyên nghiệp, bài bản dựa trên thực tế kinh doanh của chúng tôi.
 
 Các nhân viên kinh doanh của Chuỗi nhượng quyền Bò né 3 Ngon sẽ tư vấn những kiến thức tối quan trọng về kinh doanh nhà hàng – ẩm thực cùng các bài học về xử lý những tình huống kinh doanh cụ thể.
+<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/BNxn2eV38e8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 
 Chúng tôi sẽ cùng bạn có một cái nhìn đầy đủ và nhận xét khách quan nhất về tính phù hợp của bạn khi triển khai nhà hàng Bò né 3 Ngon nhằm đảm bảo: Triển vọng kinh doanh, khai thác hết tiềm năng đạt được lợi nhuận cao nhất.
 
