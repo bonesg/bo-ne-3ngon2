@@ -1,5 +1,5 @@
 ---
-title: Nhượng quyền bò né 3ngon
+title: Chuỗi quán bò né 3 ngon
 date: 2019-02-03 00:00:00 Z
 categories:
 - bone3ngon
