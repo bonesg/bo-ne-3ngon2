@@ -51,4 +51,7 @@ Kết luận Trên đây là những thông tin cơ bản về chuỗi quán Bò
 
 Hãy liên lạc ngay với chúng tôi tại địa chỉ sau để tham gia hợp tác
 
-Công Ty TNHH Bò Né 3 Ngon Địa chỉ trụ sở:7 đường số 46, Phường Hiệp Bình Chánh, Quận Thủ Đức, Thành phố Hồ Chí Minh Số ĐT:090 519 96 80 fanpage :[https://www.facebook.com/chuoibone3ngon/](https://www.facebook.com/chuoibone3ngon/)
+Công Ty TNHH Bò Né 3 Ngon 
+ Địa chỉ:19 Đường Số 46, Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh  
+Số ĐT:090 519 96 80 
+fanpage :[https://www.facebook.com/chuoibone3ngon/](https://www.facebook.com/chuoibone3ngon/)
