@@ -65,7 +65,7 @@ Bạn hoàn toàn có thể đầu tư mở nhiều quán Bò né 3 Ngon. Hợp 
 Bạn có thể yên tâm vì các quán  Bò né 3 Ngon khi được thiết lập đều căn cứ trên sự nghiên cứu kỹ lưỡng về thị trường, vị trí. Các nhà hàng sẽ được phân bổ tại các địa bàn phù hợp nhằm không dẫn đến tình trạng cạnh tranh thiếu an toàn cho các chủ đầu tư.
 
 Nếu còn bất cứ thắc mắc gì liên quan đến nhượng quyền thương hiệu Bò né 3 Ngon, hãy liên lạc ngay với chúng tôi, bạn nhé!
-
 Công Ty TNHH Bò Né 3 Ngon
+Địa chỉ:19 Đường Số 46, Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh
 Số ĐT:090 519 96 80
 fanpage :[https://www.facebook.com/chuoibone3ngon/](https://www.facebook.com/chuoibone3ngon/)
