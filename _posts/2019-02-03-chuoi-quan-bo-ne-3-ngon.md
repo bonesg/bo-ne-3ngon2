@@ -62,6 +62,6 @@ Trên đây là những thông tin cơ bản về nhượng quyền Bò né 3 Ng
 Hãy liên lạc ngay với chúng tôi tại địa chỉ sau để tham gia hợp tác
 
 Công Ty TNHH Bò Né 3 Ngon
-Địa chỉ trụ sở:18 Đinh Tiên Hoàng, Đa Kao, Quận 1, Quận 1 Hồ Chí Minh, Vietnam
+Địa chỉ:19 Đường Số 46, Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh
 Số ĐT:090 519 96 80
 fanpage :[https://www.facebook.com/chuoibone3ngon/](https://www.facebook.com/chuoibone3ngon/)![nhuong-quyen-bo-ne-3-ngon1.png](/uploads/nhuong-quyen-bo-ne-3-ngon1.png)
