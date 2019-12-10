@@ -22,8 +22,7 @@ Vốn đầu tư ban đầu chỉ từ 30tr-80tr tùy diện tích quán. Công 
 Công ty sẽ hổ trợ (bản hiệu, menu…) tư vấn các chuẩn theo quy định, hổ trợ bếp đứng hướng dẫn kinh nghiệm chế biến (free). Các nguồn nguyên liệu từ bò gia vị đến rau… đều được giao theo chuẩn định kỳ đến quán
 
 Công Ty TNHH Bò Né 3 Ngon
-
-Địa chỉ trụ sở:18 Đinh Tiên Hoàng, Đa Kao, Quận 1, Quận 1 Hồ Chí Minh, Vietnam
+Địa chỉ:19 Đường Số 46, Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh
 
 Số ĐT:090 519 96 80
 fanpage :[https://www.facebook.com/chuoibone3ngon/](https://www.facebook.com/chuoibone3ngon/)
