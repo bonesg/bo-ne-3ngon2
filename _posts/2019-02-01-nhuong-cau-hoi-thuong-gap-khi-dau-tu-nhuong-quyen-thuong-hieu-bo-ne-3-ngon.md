@@ -66,6 +66,7 @@ Bạn có thể yên tâm vì các quán  Bò né 3 Ngon khi được thiết l�
 
 Nếu còn bất cứ thắc mắc gì liên quan đến nhượng quyền thương hiệu Bò né 3 Ngon, hãy liên lạc ngay với chúng tôi, bạn nhé!
 Công Ty TNHH Bò Né 3 Ngon
-Địa chỉ:19 Đường Số 46, Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh
-Số ĐT:090 519 96 80
+Địa chỉ:18 Đinh Tiên Hoàng, Đa Kao, Quận 1, Quận 1 Hồ Chí Minh, Việt Nam
+
+Số ĐT:093 5901 505
 fanpage :[https://www.facebook.com/chuoibone3ngon/](https://www.facebook.com/chuoibone3ngon/)
