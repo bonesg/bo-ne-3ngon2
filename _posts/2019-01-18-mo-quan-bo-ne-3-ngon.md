@@ -24,7 +24,7 @@ Công ty sẽ hổ trợ (bản hiệu, menu…) tư vấn các chuẩn theo quy
 Công Ty TNHH Bò Né 3 Ngon
 Địa chỉ:18 Đinh Tiên Hoàng, Đa Kao, Quận 1, Quận 1 Hồ Chí Minh, Việt Nam
 
-Số ĐT:093 5901 505
+Số ĐT:0935 901 505 
 fanpage :[https://www.facebook.com/chuoibone3ngon/](https://www.facebook.com/chuoibone3ngon/)
 
 ![xay-dung-chuoi-bo-ne.png](/uploads/xay-dung-chuoi-bo-ne.png)
