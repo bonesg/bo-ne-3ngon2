@@ -11,8 +11,7 @@ layout: post
 ---
 
 ![nhuong-quyen-bo-ne-3-ngon](/uploads/nhuong-quyen-bo-ne-3-ngon1.png)
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/watch?v=UAxokNaIStc" frameborder="0" allowfullscreen></iframe></p>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UAxokNaIStc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 BÒ NÉ 3 NGON TRIỂN KHAI CHƯƠNG TRÌNH MỞ QUÁN ĐÓN TẾT
  THÔNG BÁO RA MẮT MỚI LÀ BÒ SỐT HẺM
    Liên hệ tư vấn :0935.901.505 ( Mr.Luân)   
@@ -33,8 +32,7 @@ Menu đa dạng, đồ ăn, đồ uống ngon, chất lượng, chuy
 Hoàn vốn cực nhanh, tỷ suất lợi nhuận cao, ổn định
 Không gian, nội thất thống nhất
 VỚI MỨC CHI PHÍ NHƯỢNG QUYỀN CÙNG NHỮNG ƯU ĐÃI HẤP 
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/watch?v=UAxokNaIStc" frameborder="0" allowfullscreen></iframe></p>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UAxokNaIStc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 QUY TRÌNH NHƯỢNG QUYỀN
 Được tư vấn chuyên sâu về hệ thống
 Tư vấn về địa điểm cho khách hàng
