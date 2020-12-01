@@ -32,6 +32,7 @@ Menu đa dạng, đồ ăn, đồ uống ngon, chất lượng, chuy
 Hoàn vốn cực nhanh, tỷ suất lợi nhuận cao, ổn định
 Không gian, nội thất thống nhất
 VỚI MỨC CHI PHÍ NHƯỢNG QUYỀN CÙNG NHỮNG ƯU ĐÃI HẤP 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 QUY TRÌNH NHƯỢNG QUYỀN
 Được tư vấn chuyên sâu về hệ thống
