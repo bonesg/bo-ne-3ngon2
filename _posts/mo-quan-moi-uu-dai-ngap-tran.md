@@ -44,6 +44,8 @@ Tuyển chọn và hỗ trợ đào tạo nhân viên
 Tiến hành vận hành thử nghiệm
 Khai trương và đưa vào hoạt động
 —————————————————————————-
+![nhuong-quyen-bo-ne-3-ngon](/uploads/nhuong-quyen-bo-ne-3-ngon1.png)
+
 MỌI CHI TIẾT XIN LIÊN HỆ 
 BÒ SỐT HẺM 
  HOTLINE 0935.901.505
