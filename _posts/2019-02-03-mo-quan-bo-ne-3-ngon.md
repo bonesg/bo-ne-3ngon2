@@ -24,6 +24,8 @@ Quyền lợi khi trở thành đối tác nhượng quyền
 Được hỗ trợ xây dựng mô hình kết hợp  món Bò Né 3 Ngon buổi SÁNG- món Bò Sốt Hẻm buổi TỐI
 Mô hình đầu tư hoàn hảo
 Chi phí đầu tư thấp
+<p><iframe style="width:100%;" height="315" src="hhttps://www.youtube.com/watch?v=UAxokNaIStc&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+
 Sở hữu mô hình kinh doanh chuyên nghiệp
 Hỗ trợ tối đa các vậy dụng thiết bị, nguyên liệu chế biến sản phẩm với chất lượng chuẩn
 Hỗ trợ hình ảnh, Marketing thương hiệu, xây dựng chiến lược hoạt động
@@ -52,7 +54,7 @@ WEBSITE:https://bosothem.com/
 
 \(uploads/nhuong-quyen-bo-ne-3-ngon1.png)
 
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/BNxn2eV38e8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe style="width:100%;" height="315" src="hhttps://www.youtube.com/watch?v=UAxokNaIStc&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 
 
 
