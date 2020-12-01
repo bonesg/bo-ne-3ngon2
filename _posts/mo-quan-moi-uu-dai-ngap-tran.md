@@ -16,6 +16,8 @@ BÒ NÉ 3 NGON TRIỂN KHAI CHƯƠNG TRÌNH MỞ QUÁN ĐÓN TẾT
  THÔNG BÁO RA MẮT MỚI LÀ BÒ SỐT HẺM
    Liên hệ tư vấn :0935.901.505 ( Mr.Luân)   
 Chỉ còn vài tháng nữa – Là tết đến xuân về
+<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/watch?v=UAxokNaIStc" frameborder="0" allowfullscreen></iframe></p>
+
 Với mong muốn định hướng khởi nghiệp  cho những nhà kinh doanh trong dịp tết .
 Khởi nghiệp NHỎ- Lợi nhuận TO – Vì một cái TẾT ấm no.
 Bò Né 3 Ngon chính thức triển khai món mới Bò Sốt Hẻm -đây đang là món ăn đang dẫn đầu xu hướng kinh doanh 2020 . Bởi sự kết hợp tinh tế giữa từ các nguyên liệu Bò -Hàu-Nấm- Phô mai cùng với nước sốt cực kì đặc biệt với hương vị đậm đà, cay cay , béo béo theo công thức riêng .
