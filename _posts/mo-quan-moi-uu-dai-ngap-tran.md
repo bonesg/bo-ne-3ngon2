@@ -11,6 +11,7 @@ layout: post
 ---
 
 ![nhuong-quyen-bo-ne-3-ngon](/uploads/nhuong-quyen-bo-ne-3-ngon1.png)
+<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/watch?v=UAxokNaIStc" frameborder="0" allowfullscreen></iframe></p>
 
 BÒ NÉ 3 NGON TRIỂN KHAI CHƯƠNG TRÌNH MỞ QUÁN ĐÓN TẾT
  THÔNG BÁO RA MẮT MỚI LÀ BÒ SỐT HẺM
@@ -32,7 +33,7 @@ Menu đa dạng, đồ ăn, đồ uống ngon, chất lượng, chuy
 Hoàn vốn cực nhanh, tỷ suất lợi nhuận cao, ổn định
 Không gian, nội thất thống nhất
 VỚI MỨC CHI PHÍ NHƯỢNG QUYỀN CÙNG NHỮNG ƯU ĐÃI HẤP 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/watch?v=UAxokNaIStc" frameborder="0" allowfullscreen></iframe></p>
 
 QUY TRÌNH NHƯỢNG QUYỀN
 Được tư vấn chuyên sâu về hệ thống
@@ -53,8 +54,7 @@ WEBSITE:https://bosothem.com/
 
 \(uploads/nhuong-quyen-bo-ne-3-ngon1.png)
 
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/BNxn2eV38e8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
-
+<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/watch?v=UAxokNaIStc" frameborder="0" allowfullscreen></iframe></p>
 
 
 Công Ty TNHH Bò Né 3 Ngon
